@@ -1,6 +1,6 @@
 AWS EKS solution with Terraform.
 
-In this solution I have used Terraform EKS Module from official Terraform Registry (Link(https://registry.terraform.io/modules/terraform-aws-modules/eks/aws/latest)).
+In this solution I have used Terraform EKS Module from official Terraform Registry (https://registry.terraform.io/modules/terraform-aws-modules/eks/aws/latest).
 
 As metioned in the problem statement, i havent launched this config just stimulated the plan with the help of "Terraform Plan" cmd in order to achieve the second condition which was no charges should occur.
 
